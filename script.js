@@ -30,3 +30,4 @@ document.getElementById('prev').addEventListener('click', (event) => {
   }
 
 });
+
